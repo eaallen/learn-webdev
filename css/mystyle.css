@@ -1,0 +1,37 @@
+body{
+/* Photo by Joshua Bartell on Unsplash */
+background-image: url('../img/haydn-golden-vfMH_FJ1yYk-unsplash.jpg');
+background-attachment: fixed;
+}
+.bg{
+    background-color: #752116 !important;
+}
+a{
+    color: #752116;
+    transition: .5s;
+}
+a:hover{
+    color: #3b6161;
+    text-decoration: underline;
+}
+.text-primary{
+    color: #3b6161 !important;
+}
+li,.subheading{
+    color:black !important;
+}
+.list-inline-item{
+    color:#3b6161 !important;
+    
+}
+.list-inline-item :hover{
+    transition: .2s !important;
+    transform: scale(1.5);
+    color: #752116 !important;
+}
+p{
+    color: black
+}
+.list-head{
+    color: black
+}
