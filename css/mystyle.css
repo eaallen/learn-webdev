@@ -27,11 +27,40 @@ li,.subheading{
 .list-inline-item :hover{
     transition: .2s !important;
     transform: scale(1.5);
-    color: #752116 !important;
+    /* color: #752116 !important; */
 }
 p{
     color: black
 }
 .list-head{
     color: black
+}
+.icon-link-html{
+    color: orange;
+}
+.icon-link-css{
+    color: purple;
+}
+.icon-link-js{
+    color: green;
+}
+.icon-link-react{
+    color: #1d6d9e;
+}
+.icon-link-github{
+    color: black;
+}
+.icon-link-firebase{
+    color: orange;
+}
+.icon-link-me{
+    color: #8f0088;
+}
+.icon-link-npm{
+    color: #a10404;
+}
+.rec :hover{
+    transition: .1s !important;
+    transform: scale(1.5);
+    color: dodgerblue !important;
 }
